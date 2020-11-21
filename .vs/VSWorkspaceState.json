@@ -7,10 +7,7 @@
     "\\src\\main\\java\\com",
     "\\src\\main\\java\\com\\grokonez",
     "\\src\\main\\java\\com\\grokonez\\jwtauthentication",
-    "\\src\\main\\java\\com\\grokonez\\jwtauthentication\\controller",
-    "\\src\\test\\java",
-    "\\src\\test\\java\\com",
-    "\\src\\test\\java\\com\\grokonez\\jwtauthentication"
+    "\\src\\main\\java\\com\\grokonez\\jwtauthentication\\controller"
   ],
   "SelectedNode": "\\src\\main\\java\\com\\grokonez\\jwtauthentication\\controller\\TestRestAPIs.java",
   "PreviewInSolutionExplorer": false
